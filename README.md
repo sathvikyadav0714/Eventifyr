@@ -1,2 +1,2 @@
 # Eventifyr
-First Repository
+First Git Repository
