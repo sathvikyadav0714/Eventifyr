@@ -41,8 +41,3 @@ CGPA: 8.0
 ## 📫 Connect with me
 - LinkedIn: linkedin.com/in/sathvikyadav  
 - GitHub: github.com/sathvikyadav0714
-
-
-
-
-⭐ Improving repository
