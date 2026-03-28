@@ -34,7 +34,7 @@ Tech: Python, NLP, Streamlit
 
 ## 🎓 Education
 B.Tech Data Science (2023–2027)  
-CGPA: 8.0 
+CGPA: 8.0  
 
 ---
 
